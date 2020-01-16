@@ -24,6 +24,7 @@
     "@nestjs/config": "0.0.9",
     "@nestjs/core": "^6.7.2",
     "@nestjs/platform-express": "^6.7.2",
+    "dotenv": "^8.2.0",
     "hbs": "^4.0.4",
     "json-to-query-string": "^1.0.0",
     "magento2-rest-client": "github:divanteltd/magento2-rest-client",
